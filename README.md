@@ -1,3 +1,5 @@
+@Author [marvin255](https://github.com/marvin255)
+
 # Pimple для 1с битрикс
 
 Обертка для подключения [pimple](http://pimple.sensiolabs.org/) для 1с битрикс. Оборачивает pimple в singleton контейнер. Инициирует контейнер со стартовыми параметрами для $APPLICATION, $USER и $DB.
