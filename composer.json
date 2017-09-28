@@ -1,5 +1,5 @@
 {
-	"name": "marvin255/bxpimple",
+	"name": "READYTOMASSACRE/bxpimple",
 	"description": "Обертка pimple для 1c битрикс",
 	"type": "library",
 	"keywords": ["php", "bitrix", "pimple"],
@@ -16,7 +16,7 @@
 	"repositories": [
 		{
 			"type": "git",
-			"url": "https://github.com/marvin255/bxpimple"
+			"url": "https://github.com/READYTOMASSACRE/bxpimple"
 		}
 	]
 }
